@@ -1,0 +1,36 @@
+#include<iostream>
+using namespace std;
+main()
+{
+char a,b,c,d,e,f,g,h,t,s,q,l,m,p,z;
+cout<<"";
+cin>>a;
+b=a;
+c=a;
+d=a;
+e=a;
+f=a;
+g=a;
+h=a;
+t=a;
+s=a;
+q=a;
+l=a;
+m=a;
+p=a;
+z=a;
+cout<<""<<b;
+cout<<""<<c<<endl;
+cout<<""<<d;
+cout<<""<<e;
+cout<<""<<f<<endl;
+cout<<""<<g;
+cout<<""<<h;
+cout<<""<<t;
+cout<<""<<s<<endl;
+cout<<""<<q;
+cout<<""<<l;
+cout<<""<<m;
+cout<<""<<p;
+cout<<""<<z;
+}
